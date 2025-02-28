@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-28T20:24:27.671Z",
+  "created_by": "sarah-freeman",
+  "title": "Theoretical Theatre",
+  "slug": "theoretical-theatre",
+  "updated_at": "2025-02-28T20:24:27.671Z",
+  "updated_by": "sarah-freeman",
+  "parent": "4efc8814-76c6-4881-bfa3-417b4f9f8743",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "632a51cc-f829-4c82-a6e1-d5ba12cbc9eb"
+  }
+}
