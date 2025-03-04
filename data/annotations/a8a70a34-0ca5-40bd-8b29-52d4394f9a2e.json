@@ -505,6 +505,23 @@
         }
       ],
       "uuid": "be77b463-add9-4c46-9532-f4d474e0ebb4"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This text is bold.",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a51ef8b5-4f1a-4f26-81bd-5b59daa28a39"
     }
   ],
   "set": "Default",
